@@ -9,7 +9,6 @@ int count = -number;
 while (count <= number)
 {
     Console.WriteLine("count");
-    
     count++;
 }
-
+Console.WriteLine();
